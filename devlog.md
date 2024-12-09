@@ -10,12 +10,19 @@ on bytes in the Python language.
 # Dec. 8, 2024, 5:38 pm
 After creating the menu, I've decided to do a bit of research on binary files and BTrees in Python language, in order to have a better understanding
 for the project. Throughout this side practice, I now understand how to create and read from binary files and convert strings or integers into binary. 
-For the BTree, I mainly learned from the Geeks for Geeks website. It helped me clarify my confusion on how to rearrange the BTree whenever a node meets its
+For the BTree it helped me clarify my confusion on how to rearrange the BTree whenever a node meets its
 degree limit. I do still get a bit confuse with the calculation on how the nodes gets split. 
-NOTE: One thing to mention is that I have added my notes/practice (bTree.py abd binaryTest.py) onto the Notes and Research branch.
+
 
 My next step in this project is to create the BTree for the Index File, and also having the functions to be able to use/create binary files.
 
 # Dec. 8, 2024, 7:23 pm
 I've realized that starting off from creating from the BTree had led me to big confusion. Instead, I've decided to create the command functions
 first as I develop the BTree class and Node class. 
+
+# Dec. 8, 2024, 11:37 pm
+Unfortunetly I was unable to complete this project.
+I have came across a few problems mainly on my BTrees, where I've mostly test it on two arrays (representing the value and keys).
+The issue I've came accross was first sorting by the keys, and second calculations in splitting the children nodes array.
+In this session, sadly my goal to finish was not met. But my goal in learning more aboout bytes and conversion have greatky expanded.
+Throught my next session I was thinking about how I would be able to apply many methods into this code. 
