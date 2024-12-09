@@ -15,3 +15,7 @@ degree limit. I do still get a bit confuse with the calculation on how the nodes
 NOTE: One thing to mention is that I have added my notes/practice (bTree.py abd binaryTest.py) onto the Notes and Research branch.
 
 My next step in this project is to create the BTree for the Index File, and also having the functions to be able to use/create binary files.
+
+# Dec. 8, 2024, 7:23 pm
+I've realized that starting off from creating from the BTree had led me to big confusion. Instead, I've decided to create the command functions
+first as I develop the BTree class and Node class. 
