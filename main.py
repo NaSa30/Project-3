@@ -251,7 +251,6 @@ def insertFile(fileName, key, value, total):
     
 # convertBTree() : Converts the binary file into BTRee
 
-
 ### MAIN ###
 command = ""
 fileName = ""
@@ -326,7 +325,8 @@ while command != "quit":
 
 
     elif command == "print":
-        convertBTree()
+        print("PRINT")
+        # convertBTree()
 
 
 
